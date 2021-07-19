@@ -1,11 +1,26 @@
 # TENMAJKL
 
-Iam just guy that is interested in those things:
-* Python (flask, discord.py)
+About me
+* MineHub webdeveloper
+* Creator of Lemon
+* Interested in server-client connections and command line interfaces
+
+Languages and technologies:
+* Python
 * Html/css/js
 * PHP
-* Java (spigot)
-* vimscript/bash
+* Vue
+* Node
+* Vim
+* Bash/zsh
+* Java
 
-My biggest project is lemon:
-https://github.com/Lemon-Framework/Lemon
+Currently learning 
+* C (school purpose)
+* Laravel
+
+Currently working on
+* MineHub web
+* Lemon
+* MH DOS
+* Unnecessary projects that already exists

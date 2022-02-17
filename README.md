@@ -20,7 +20,7 @@ Currently learning
 * Laravel
 
 Currently working on
-* MineHub web
+* MineHub website
 * Lemon
 * MH DOS
-* Unnecessary projects that already exists
+* Unnecessary projects that already exist

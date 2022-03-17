@@ -1,3 +1,8 @@
+I work om:
+- Lemon
+- wal
+- minehub web
+
 I like:
 - php
 - regex
@@ -17,3 +22,4 @@ I use:
 I Learn:
 - functional programming
 - web frameworks
+- rust

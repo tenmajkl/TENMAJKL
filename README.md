@@ -1,26 +1,19 @@
-# TENMAJKL
+I like:
+- php
+- regex
+- terminal
+- unix (and *nix)
+- doing stuff from scratch
 
-About me
-* MineHub webdeveloper
-* Creator of Lemon
-* Interested in server-client connections and command line interfaces
+I use:
+- neovim
+- arch Btw 
+- macOS
+- php
+- rust
+- c (mostly in school)
+- sometimes Python, java, JavaScript
 
-Languages and technologies:
-* Python
-* Html/css/js
-* PHP
-* Vue
-* Node
-* Vim
-* Bash/zsh
-* Java
-
-Currently learning 
-* C (school purpose)
-* Laravel
-
-Currently working on
-* MineHub website
-* Lemon
-* MH DOS
-* Unnecessary projects that already exist
+I Learn:
+- functional programming
+- web frameworks

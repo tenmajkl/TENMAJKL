@@ -9,6 +9,7 @@ I like:
 - terminal
 - unix (and *nix)
 - doing stuff from scratch
+- synths
 
 I use:
 - neovim

@@ -1,4 +1,4 @@
-I work om:
+I work on:
 - Lemon
 - wal
 - minehub web

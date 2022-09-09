@@ -20,6 +20,7 @@ I use:
 - arch Btw 
 - macOS
 - php
+- haskell
 - rust
 - c (mostly in school)
 - sometimes Python, java, JavaScript

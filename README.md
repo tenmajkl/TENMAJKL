@@ -4,12 +4,12 @@
 
 I work on:
 - Lemon
-- wal
-- minehub web
+- MineHub web technologies
 
 I like:
 - php
 - regex
+- haskell
 - terminal
 - unix (and *nix)
 - doing stuff from scratch
@@ -29,3 +29,4 @@ I Learn:
 - functional programming
 - web frameworks
 - rust
+- writing parsers
